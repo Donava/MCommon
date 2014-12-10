@@ -24,3 +24,11 @@ proguard/
 
 # Log Files
 *.log
+
+# mac
+.DS_Store
+
+#eclipse
+.project
+.classpath
+.settings/

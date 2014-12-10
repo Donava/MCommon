@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LoadingLayout">
+        <attr name="loadingView" format="reference" />
+        <attr name="noNetworkView" format="reference" />
+        <attr name="timeoutView" format="reference" />
+        <attr name="networkExceptionView" format="reference" />
+        <attr name="serverExceptionView" format="reference" />
+        <attr name="defaultExceptionView" format="reference" />
+    </declare-styleable>
+
+</resources>

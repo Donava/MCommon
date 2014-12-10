@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Window.DialogAnimation" parent="@android:style/Animation.Activity">
+        <item name="android:windowEnterAnimation">@anim/mc__fade_in</item>
+        <item name="android:windowExitAnimation">@anim/mc__fade_out</item>
+    </style>
+</resources>

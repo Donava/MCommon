@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="loading_btn_disable">#bbbbbb</color>
+
+    <color name="loading_btn_normal">#ff9913</color>
+
+    <color name="loading_btn_pressed">#e58911</color>
+
+    <color name="xlv_hint_text_color">#989898</color>
+
+    <color name="dialog_background">#99000000</color>
+
+    <color name="dialog_dark">#d7d7d7</color>
+</resources>
