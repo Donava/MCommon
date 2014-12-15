@@ -32,3 +32,7 @@ proguard/
 .project
 .classpath
 .settings/
+
+#idea
+.idea/
+*.iml
